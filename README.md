@@ -25,3 +25,17 @@ https://www.anaconda.com/products/individual
 
 
 
+----
+### 블로그 작성시 참고 
+
+https://hanul0147.tistory.com/
+
+https://vision-ai.tistory.com/
+
+https://dbfoot.tistory.com/
+
+https://jkonghg.wixsite.com/everywork
+
+https://hanul0147.tistory.com/
+
+https://pfshin2.tistory.com/
