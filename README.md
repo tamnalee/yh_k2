@@ -26,6 +26,10 @@ https://www.anaconda.com/products/individual
 
 
 ----
+
+## 본인 블로그 주소를 기록하세요.
+https://docs.google.com/spreadsheets/d/1ng-I9wMPhLo8BHX3g4xdloG9gBVXj9WPqBuiChI5jZg/edit?usp=sharing
+
 ### 블로그 작성시 참고 
 
 https://hanul0147.tistory.com/
