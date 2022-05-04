@@ -34,8 +34,7 @@ https://www.anaconda.com/products/individual
 ### 파이썬 연습문제
 https://wikidocs.net/7014
 
-### 블로그 주소
-https://docs.google.com/spreadsheets/d/1ng-I9wMPhLo8BHX3g4xdloG9gBVXj9WPqBuiChI5jZg/edit#gid=0
+
 
 ### 블로그 작성시 참고 
 
