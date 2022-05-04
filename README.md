@@ -36,6 +36,19 @@ https://wikidocs.net/7014
 
 
 
+## 참고 자료
+
+- 시카고 범죄 데이터1 : https://drive.google.com/file/d/1fE0ThvIrHLn2_y-L-4AD5Ggpt0bU5F1A/view?usp=sharing
+
+- 시카고 범죄 데이터2 : https://drive.google.com/file/d/1wo4zY9mz8XzsF7H7OWUAhUrNlKI98xPX/view?usp=sharing
+
+- 시카고 범죄 데이터3 : https://drive.google.com/file/d/11t2RWb8pRidwDPk5u21GCGEWzLK2tNmG/view?usp=sharing
+
+- 실습데이터1 : https://drive.google.com/file/d/1rxn6dwzAKfmVBghvSG2Lf2dR7vViTRdM/view?usp=sharing
+
+- 실습데이터2 : https://drive.google.com/file/d/1BMth--17KkjOzI2i62mCgQvtwyjnAXas/view?usp=sharing
+
+
 ### 블로그 작성시 참고 
 
 https://hanul0147.tistory.com/
@@ -49,3 +62,6 @@ https://jkonghg.wixsite.com/everywork
 https://hanul0147.tistory.com/
 
 https://pfshin2.tistory.com/
+
+
+
