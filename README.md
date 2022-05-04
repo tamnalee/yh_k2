@@ -4,7 +4,11 @@ yh kdigital
 
 과정소개 : https://docs.google.com/presentation/d/1uzB13Qjkwcq_LVzKhN9RWsTGrOTd21MkV0jl_catrok/edit?usp=sharing
 
+--- 
 
+## 강의 자료
+
+머신러닝 : https://docs.google.com/presentation/d/1pvgye0Gt5DKgA7Kn5pc4Cfy-D4VtmQTxVIvbxa-GfFc/edit#slide=id.ga8aab8fd2a_0_50
 
 
 ---
@@ -30,8 +34,7 @@ https://www.anaconda.com/products/individual
 ### 파이썬 연습문제
 https://wikidocs.net/7014
 
-### 블로그 주소
-https://docs.google.com/spreadsheets/d/1ng-I9wMPhLo8BHX3g4xdloG9gBVXj9WPqBuiChI5jZg/edit#gid=0
+
 
 ### 블로그 작성시 참고 
 
