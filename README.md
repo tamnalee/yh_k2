@@ -48,6 +48,7 @@ https://wikidocs.net/7014
 
 - 실습데이터2 : https://drive.google.com/file/d/1BMth--17KkjOzI2i62mCgQvtwyjnAXas/view?usp=sharing
 
+---
 
 ### 데이터 제공 사이트들 
 
@@ -71,6 +72,7 @@ https://www.bigdata-culture.kr/bigdata/user/main.do
 
 https://kdata.or.kr/datavoucher/is/selectPortalSearch.do
 
+---
 
 ### 블로그 작성시 참고 
 
