@@ -49,6 +49,29 @@ https://wikidocs.net/7014
 - 실습데이터2 : https://drive.google.com/file/d/1BMth--17KkjOzI2i62mCgQvtwyjnAXas/view?usp=sharing
 
 
+### 데이터 제공 사이트들 
+
+https://www.data.go.kr/
+
+https://www.incheon.go.kr/data/index
+
+https://data.kostat.go.kr/sbchome/intro.do
+
+https://data.seoul.go.kr/
+
+https://data.gg.go.kr/portal/mainPage.do
+
+http://data.ex.co.kr/
+
+https://data.kma.go.kr/cmmn/main.do
+
+https://data.mfds.go.kr/cntnts/10
+
+https://www.bigdata-culture.kr/bigdata/user/main.do
+
+https://kdata.or.kr/datavoucher/is/selectPortalSearch.do
+
+
 ### 블로그 작성시 참고 
 
 https://hanul0147.tistory.com/
