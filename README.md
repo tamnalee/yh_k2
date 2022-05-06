@@ -52,6 +52,8 @@ https://wikidocs.net/7014
 
 ### 데이터 제공 사이트들 
 
+https://www.kaggle.com/
+
 https://www.data.go.kr/
 
 https://www.incheon.go.kr/data/index
