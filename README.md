@@ -12,6 +12,8 @@ yh kdigital
 
 모델 및 스케일러 등을 저장하는 방법 :  https://bit.ly/3aMhT0Q
 
+불용어 : https://vision-ai.tistory.com/entry/Stopwords-%EB%B6%88%EC%9A%A9%EC%96%B4
+
 ---
 
 ## 실습 환경 셋팅 
