@@ -24,7 +24,7 @@ CNN : https://docs.google.com/presentation/d/1En1eB-RJTFWHY7ysQO1dC8y5S5Uoo-hTO8
 
 RDBMS vs NoSQL : https://vision-ai.tistory.com/entry/RDBMS-vs-NoSQL
 
-DB 강의자료 : https://docs.google.com/presentation/d/1Mm6h023No5t2jb5VYR8fDsjamXuvilSF7mEXt9US71E/edit?usp=sharing
+
 
 ---
 
