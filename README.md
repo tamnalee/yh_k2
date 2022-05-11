@@ -14,6 +14,14 @@ yh kdigital
 
 CNN : https://docs.google.com/presentation/d/1En1eB-RJTFWHY7ysQO1dC8y5S5Uoo-hTO8G1xVlp8B0/edit?usp=sharing
 
+데이터베이스 설치 : https://docs.google.com/presentation/d/12Xm89yzn-Lk6eacTjSn59hXrB28Ip4waDyPfe29jXDE/edit?usp=sharing
+
+RDBMS vs NoSQL : https://vision-ai.tistory.com/entry/RDBMS-vs-NoSQL
+
+DB 강의자료 : https://docs.google.com/presentation/d/1Mm6h023No5t2jb5VYR8fDsjamXuvilSF7mEXt9US71E/edit?usp=sharing
+
+
+
 모델 및 스케일러 등을 저장하는 방법 :  https://bit.ly/3aMhT0Q
 
 불용어 : https://vision-ai.tistory.com/entry/Stopwords-%EB%B6%88%EC%9A%A9%EC%96%B4
