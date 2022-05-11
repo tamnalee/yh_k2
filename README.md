@@ -10,15 +10,17 @@ yh kdigital
 
 머신러닝 : https://docs.google.com/presentation/d/1pvgye0Gt5DKgA7Kn5pc4Cfy-D4VtmQTxVIvbxa-GfFc/edit#slide=id.ga8aab8fd2a_0_50
 
-뉴럴넷 (인공신경망) : https://docs.google.com/presentation/d/1DCOW7Lum2rnoPU7gxpznimrXV0DOJFc-YkkJt3jZC0U/edit?usp=sharing
-
-CNN : https://docs.google.com/presentation/d/1En1eB-RJTFWHY7ysQO1dC8y5S5Uoo-hTO8G1xVlp8B0/edit?usp=sharing
-
 데이터베이스 설치 : https://docs.google.com/presentation/d/12Xm89yzn-Lk6eacTjSn59hXrB28Ip4waDyPfe29jXDE/edit?usp=sharing
 
 RDBMS vs NoSQL : https://vision-ai.tistory.com/entry/RDBMS-vs-NoSQL
 
 DB 강의자료 : https://docs.google.com/presentation/d/1Mm6h023No5t2jb5VYR8fDsjamXuvilSF7mEXt9US71E/edit?usp=sharing
+
+
+
+뉴럴넷 (인공신경망) : https://docs.google.com/presentation/d/1DCOW7Lum2rnoPU7gxpznimrXV0DOJFc-YkkJt3jZC0U/edit?usp=sharing
+
+CNN : https://docs.google.com/presentation/d/1En1eB-RJTFWHY7ysQO1dC8y5S5Uoo-hTO8G1xVlp8B0/edit?usp=sharing
 
 
 
