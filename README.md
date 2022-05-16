@@ -32,6 +32,8 @@ RDBMS vs NoSQL : https://vision-ai.tistory.com/entry/RDBMS-vs-NoSQL
 - 실습 1 : https://docs.google.com/presentation/d/1KPZiQNb8MfKb3tdm01CnENI1CoZ0g7Ga1c8yEStVDMo/edit?usp=sharing
 - DB 실습 쿼리문 : https://drive.google.com/open?id=1IHGP15up9P9iliMUCLXab6f-wYpEamuG
 - DB 실습문제 1 : https://docs.google.com/presentation/d/1AQPMzJvUCoqTvt_PyfdTLvYCx12W2TmEFU8WBAUzS4Y/edit?usp=sharing
+- DB 실습문제 2 : https://docs.google.com/presentation/d/1EUJFxMxHrkL9IQl_gIOF5FwitWfvUsrKnpW8vaWzSvs/edit?usp=sharing
+- DB 실습문제 3 : https://docs.google.com/presentation/d/1bJocq81ssqBg6Vcw5UYonitn5nZslBYgY8XZIrQHCfQ/edit?usp=sharing
 
 ---
 
