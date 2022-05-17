@@ -1,3 +1,13 @@
+select title, author_lname , 
+	case
+		when title like '%stories%' then 'Short Stories'
+        when title = 'Just Kids' or title = 'A Heartbreaking Work of Staggering Genius' then 'Memoir'
+		else 'Novel'
+    end as TYPE
+from books;
+
+----
+
 select  title, author_lname, if( count(*) = 1 , concat(count(*),' book') , concat(count(*), ' books'))
 from books
 group by author_lname, author_fname
