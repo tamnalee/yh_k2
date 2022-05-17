@@ -1,3 +1,10 @@
+select  title, author_lname, if( count(*) = 1 , concat(count(*),' book') , concat(count(*), ' books'))
+from books
+group by author_lname, author_fname
+order by author_lname;
+
+-----
+
 INSERT INTO students (first_name) VALUES 
 ('Caleb'), ('Samantha'), ('Raj'), ('Carlos'), ('Lisa');
 
