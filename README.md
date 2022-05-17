@@ -70,6 +70,8 @@ https://wikidocs.net/7014
 
 ## 참고 자료
 
+- 웹/앱 서비스 구성 : https://bit.ly/2YFaWb5
+
 - 시카고 범죄 데이터1 : https://drive.google.com/file/d/1fE0ThvIrHLn2_y-L-4AD5Ggpt0bU5F1A/view?usp=sharing
 
 - 시카고 범죄 데이터2 : https://drive.google.com/file/d/1wo4zY9mz8XzsF7H7OWUAhUrNlKI98xPX/view?usp=sharing
