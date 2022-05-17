@@ -1,3 +1,10 @@
+select s.first_name,  ifnull( avg(grade) , 0) as average , if(avg(grade)>=80, 'PASSING', 'FAILING')
+from students s
+left join papers p
+	on s.id = p.student_id
+group by s.id;
+
+
 -- 실습문제 
 -- CREATING THE REVIEWERS TABLE
 
